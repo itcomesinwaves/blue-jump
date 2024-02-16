@@ -1,5 +1,5 @@
 # blue-jump
-2D platforming video game
+2D platforming video game<br></br>
 This video game was created using the Unity Engine v2022.3.9f1
 <pre>
 Controlls: 
